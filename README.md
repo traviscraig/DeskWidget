@@ -127,13 +127,20 @@ Reliability is handled throughout the design rather than in one error handler:
 
 The firmware targets the following core hardware:
 
-- Adafruit Qualia ESP32-S3 for RGB-666 displays
+- Adafruit Qualia ESP32-S3 for RGB-666 displays 
+    - https://www.adafruit.com/product/5800
 - 480 × 480 RGB display
+    - https://www.adafruit.com/product/5825   
 - AHT20 temperature and humidity sensor
+    - https://www.adafruit.com/product/4566
 - SGP30 TVOC and eCO2 sensor
+    - https://www.adafruit.com/product/3709
 - DS3231 real-time clock
+    - https://www.adafruit.com/product/5188
 - Adafruit seesaw rotary encoder with NeoPixel
+    - https://www.adafruit.com/product/5880
 - 4 KB I2C EEPROM
+    - https://www.adafruit.com/product/5146
 
 ## Software Stack
 
